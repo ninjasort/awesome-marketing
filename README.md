@@ -29,7 +29,7 @@
 - [Buffer](https://buffer.com)
 - [Hootsuite](https://hootsuite.com/)
 
-### Lead Generation
+#### Lead Generation
 - [LeadPages](https://www.leadpages.net)
 
 #### E-Commerce Tools
