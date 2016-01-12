@@ -5,7 +5,6 @@
 - [Long Tail Pro](http://www.longtailpro.com/)
 - [SEO Book](http://tools.seobook.com/keyword-tools/seobook/)
 - [SEO Keyword Ranking](http://www.seokeywordranking.com/)
-- 
 
 #### Email List
 - [Mailchimp](http://mailchimp.com/)
@@ -25,6 +24,10 @@
 
 #### Automation
 - [Infusionsoft](http://www.infusionsoft.com/home2)
+- [IFTTT](https://ifttt.com/)
+- [Zapier](https://zapier.com/)
+- [Buffer](https://buffer.com)
+- [Hootsuite](https://hootsuite.com/)
 
 ### Lead Generation
 - [LeadPages](https://www.leadpages.net)
@@ -48,6 +51,8 @@
 - [Stripe](https://stripe.com/)
 - [Square](https://squareup.com/)
 - [Paypal](www.paypal.com)
+- [Bitcoin](https://bitcoin.org/en/)
+- [Coinbase](https://www.coinbase.com/)
 
 #### Online Courses
 - [Teachable](https://teachable.com/)
@@ -58,10 +63,36 @@
 - [Webinar Jam Studio](http://ww2.webinarjam.com/welcome)
 - [Ever Webinar](https://everwebinar.com/)
 
+#### Events
+- [Ticketleap](http://www.ticketleap.com/)
+- [Eventbrite](https://www.eventbrite.com/)
+- [Meetup](http://www.meetup.com/)
+
 #### Podcasting
 - [Libsyn](https://www.libsyn.com/)
 - [Simplecast](https://simplecast.fm/)
 - [Smart Podcast Player](https://smartpodcastplayer.com/)
 - [SoundCloud](http://soundcloud.com)
 - [blubrry](https://www.blubrry.com/)
+
+#### Analytics
+- [Google Analytics](https://www.google.com/analytics/)
+- [Kissmetrics](https://kissmetrics.com/)
+- [Optimizely](https://www.optimizely.com/)
+
+#### Customers
+- [Intercom](https://www.google.com/analytics/)
+- [Sonar](https://www.sendsonar.com/)
+
+#### Social
+- [Twitter](https://twitter.com/)
+- [Facebook](https://www.facebook.com/)
+- [Instagram](http://instagram.com)
+- [Reddit](https://www.reddit.com/)
+- [Craigslist](http://craigslist.org)
+- [YouTube](http://youtube.com)
+- [Periscope](https://www.periscope.tv/)
+- [Meerkat](https://meerkatapp.co/)
+- [Blab](https://blab.im/)
+- [Product Hunt](https://www.producthunt.com/)
 
