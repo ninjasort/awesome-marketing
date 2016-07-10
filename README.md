@@ -5,6 +5,7 @@
 - [Long Tail Pro](http://www.longtailpro.com/)
 - [SEO Book](http://tools.seobook.com/keyword-tools/seobook/)
 - [SEO Keyword Ranking](http://www.seokeywordranking.com/)
+- [Buzzsumo](http://buzzsumo.com/)
 
 #### Email List
 - [Mailchimp](http://mailchimp.com/)
