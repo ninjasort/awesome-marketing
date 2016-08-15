@@ -1,9 +1,11 @@
 # Awesome Marketing
 
+#### Awesome Links
+- [Startup Stash](http://startupstash.com/)
+
 #### Trends
 - [Buzzsumo](http://buzzsumo.com/)
 - [Google Trends](https://www.google.com/trends/)
-- []()
 
 #### SEO Research
 - [Market Samurai](http://www.marketsamurai.com)
@@ -32,9 +34,13 @@
 
 #### Email Prospecting
 - [Reply](http://replyapp.io)
+- [Prospectify](https://prospectify.io/)
 
 #### Lead Generation
 - [Optinmonster](http://optinmonster.com)
+
+#### Sales
+- [Close.io](http://close.io/)
 
 #### Growth Engines
 - [Click Funnels](https://www.clickfunnels.com/)
@@ -84,6 +90,14 @@
 - [Paypal](www.paypal.com)
 - [Bitcoin](https://bitcoin.org/en/)
 - [Coinbase](https://www.coinbase.com/)
+- [Harvest](http://harvestapp.com)
+- [Payfunnels](https://go.payfunnels.com/signup)
+- [Bonsai](https://www.hellobonsai.com/)
+- [Freshbooks](https://www.freshbooks.com/)
+- [Hurdlr](https://hurdlr.com/)
+
+#### Legal
+- [Shakelaw](https://www.shakelaw.com)
 
 #### Online Courses
 - [Teachable](https://teachable.com/)
@@ -119,22 +133,28 @@
 - [Twitter](https://twitter.com/)
 - [Facebook](https://www.facebook.com/)
 - [Instagram](http://instagram.com)
-- [Reddit](https://www.reddit.com/)
 - [Craigslist](http://craigslist.org)
 - [YouTube](http://youtube.com)
 - [Periscope](https://www.periscope.tv/)
 - [Meerkat](https://meerkatapp.co/)
 - [Blab](https://blab.im/)
-- [Product Hunt](https://www.producthunt.com/)
 - [Click-to-Tweet](http://coschedule.com/click-to-tweet)
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
+
+#### Communities & Blogs
+- [Growth Hackers](https://growthhackers.com/)
+- [Inbound](https://inbound.org/get-started)
+- [Hacker News](https://news.ycombinator.com/)
+- [Product Hunt](https://www.producthunt.com/)
+- [Reddit](https://www.reddit.com/)
 
 #### Writing Tools
 - [Byword 2](https://bywordapp.com)
 - [Grammarly](https://www.grammarly.com)
 - [Headline Analyzer](http://coschedule.com/headline-analyzer)
 - [Awesome Screenshot Chrome Extension](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+- [Brevity](http://brevity.ga/)
 
 #### Content Marketing
 - [CoSchedule](http://coschedule.com)
@@ -152,6 +172,8 @@
 
 #### Design
 - [Design Feed](http://designfeed.io/gg/?source=direct)
+- [Pop](https://popapp.in/)
+- [Curator](http://curator.co/)
 
 #### Photography
 - [Unsplash](https://unsplash.com)
@@ -171,7 +193,7 @@
 - [Appointlet](https://www.appointlet.com)
 
 #### Outsourcing
-- [Upwork]()
+- [Upwork](https://www.upwork.com/)
 - [Guru](http://www.guru.com)
 - [CloudPeeps](https://www.cloudpeeps.com)
 - [Toptal](www.toptal.com)
@@ -182,6 +204,27 @@
 - [Trello](https://trello.com/)
 - [Skype](https://www.skype.com)
 - [Slack](https://slack.com/)
+
+#### Analytics
+- [Mixpanel](https://mixpanel.com/)
+- [Google Analytics](https://analytics.google.com)
+- [Content Marketer](https://contentmarketer.io)
+- [Bit.ly](https://app.bitly.com)
+
+#### Productivity
+- [Todoist](https://en.todoist.com/)
+- [Todo](http://www.appigo.com/)
+
+#### User Testing
+- [Typeform](https://www.typeform.com/)
+- [Proved](https://proved.co/)
+
+
+
+
+
+
+
 
 
 
