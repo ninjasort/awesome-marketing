@@ -1,17 +1,45 @@
 # Awesome Marketing
 
+#### Trends
+- [Buzzsumo](http://buzzsumo.com/)
+- [Google Trends](https://www.google.com/trends/)
+- []()
+
 #### SEO Research
 - [Market Samurai](http://www.marketsamurai.com)
 - [Long Tail Pro](http://www.longtailpro.com/)
 - [SEO Book](http://tools.seobook.com/keyword-tools/seobook/)
 - [SEO Keyword Ranking](http://www.seokeywordranking.com/)
-- [Buzzsumo](http://buzzsumo.com/)
+- [Ispionage](https://www.ispionage.com)
+- [Yoast](https://yoast.com/)
+- [Moz](https://moz.com/)
+- [Alexa Traffic Rank Chrome Extension](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
+- [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 
-#### Email List
+##### Keywords
+- [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
+- [Keyword Density Analyzer Tool](http://tools.seobook.com/general/keyword-density/)
+
+##### Optimization
+- [Pingdom](http://tools.pingdom.com/fpt/)
+
+#### Email Marketing
 - [Mailchimp](http://mailchimp.com/)
 - [Aweber](http://www.aweber.com/)
 - [ConvertKit](http://convertkit.com/)
+- [ActiveCampaign](http://activecampaign.com)
 - [Sidekick](http://www.getsidekick.com/)
+
+#### Email Prospecting
+- [Reply](http://replyapp.io)
+
+#### Lead Generation
+- [Optinmonster](http://optinmonster.com)
+
+#### Growth Engines
+- [Click Funnels](https://www.clickfunnels.com/)
+- [Wishpond](https://www.wishpond.com/)
+- [Growth Geeks](http://www.growthgeeks.com)
 
 #### Affiliate Programs
 - [Clickbank](http://www.clickbank.com/)
@@ -28,10 +56,12 @@
 - [IFTTT](https://ifttt.com/)
 - [Zapier](https://zapier.com/)
 - [Buffer](https://buffer.com)
-- [Hootsuite](https://hootsuite.com/)
+- [Hootsuite](https://hootsuite.com)
 
-#### Lead Generation
+#### Landing Pages
 - [LeadPages](https://www.leadpages.net)
+- [Unbounce](http://unbounce.com)
+- [Instapage](https://instapage.com/)
 
 #### E-Commerce Tools
 - [Shopify](https://www.shopify.com/)
@@ -96,4 +126,65 @@
 - [Meerkat](https://meerkatapp.co/)
 - [Blab](https://blab.im/)
 - [Product Hunt](https://www.producthunt.com/)
+- [Click-to-Tweet](http://coschedule.com/click-to-tweet)
+- [AddThis](http://www.addthis.com/)
+- [Narrow](http://narrow.io/)
+
+#### Writing Tools
+- [Byword 2](https://bywordapp.com)
+- [Grammarly](https://www.grammarly.com)
+- [Headline Analyzer](http://coschedule.com/headline-analyzer)
+- [Awesome Screenshot Chrome Extension](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+
+#### Content Marketing
+- [CoSchedule](http://coschedule.com)
+- [NinjaOutreach](https://ninjaoutreach.com/)
+
+#### Online Courses
+- [Zippy Courses](https://zippycourses.com/)
+
+### Stock Resources
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+- [Placeit.net](https://placeit.net/)
+
+#### Videos
+- [Explainify](http://explainify.com/)
+
+#### Design
+- [Design Feed](http://designfeed.io/gg/?source=direct)
+
+#### Photography
+- [Unsplash](https://unsplash.com)
+- [StockSnap](https://stocksnap.io)
+- [Flickr](https://www.flickr.com/creativecommons)
+
+#### Infographics
+- [Infogr.am](https://infogr.am)
+- [Canva](https://www.canva.com)
+
+#### Gifs
+- [Gif Brewery](http://gifbrewery.com)
+
+#### Scheduling
+- [ScheduleOnce](http://www.scheduleonce.com)
+- [Calendly](https://calendly.com)
+- [Appointlet](https://www.appointlet.com)
+
+#### Outsourcing
+- [Upwork]()
+- [Guru](http://www.guru.com)
+- [CloudPeeps](https://www.cloudpeeps.com)
+- [Toptal](www.toptal.com)
+
+#### Communication & Collaboration
+- [Google Drive](https://www.google.com/drive/)
+- [Google Hangouts](https://hangouts.google.com/)
+- [Trello](https://trello.com/)
+- [Skype](https://www.skype.com)
+- [Slack](https://slack.com/)
+
+
+
+
+
 
