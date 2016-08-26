@@ -22,6 +22,10 @@
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
 - [Keyword Density Analyzer Tool](http://tools.seobook.com/general/keyword-density/)
 
+##### Advertising
+- [OpenX](http://openx.com/)
+- [BrightRoll](https://brightroll.com/)
+
 ##### Optimization
 - [Pingdom](http://tools.pingdom.com/fpt/)
 
@@ -208,6 +212,7 @@
 #### Analytics
 - [Mixpanel](https://mixpanel.com/)
 - [Google Analytics](https://analytics.google.com)
+- [Segment](https://segment.com/)
 - [Content Marketer](https://contentmarketer.io)
 - [Bit.ly](https://app.bitly.com)
 
