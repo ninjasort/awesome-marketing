@@ -17,6 +17,7 @@
 - [Moz](https://moz.com/)
 - [Alexa Traffic Rank Chrome Extension](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
+- [ ]
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
@@ -35,16 +36,20 @@
 - [ConvertKit](http://convertkit.com/)
 - [ActiveCampaign](http://activecampaign.com)
 - [Sidekick](http://www.getsidekick.com/)
+- [Customer.io](https://customer.io/)
 
 #### Email Prospecting
 - [Reply](http://replyapp.io)
 - [Prospectify](https://prospectify.io/)
+- [Voila Norbert](https://www.voilanorbert.com/)
+- [Anymail Finder](https://anymailfinder.com/)
 
 #### Lead Generation
 - [Optinmonster](http://optinmonster.com)
 
 #### Sales
 - [Close.io](http://close.io/)
+- [Salesloft](https://salesloft.com/)
 
 #### Growth Engines
 - [Click Funnels](https://www.clickfunnels.com/)
@@ -63,15 +68,18 @@
 
 #### Automation
 - [Infusionsoft](http://www.infusionsoft.com/home2)
+- [Hull](https://www.hull.io/)
 - [IFTTT](https://ifttt.com/)
 - [Zapier](https://zapier.com/)
 - [Buffer](https://buffer.com)
 - [Hootsuite](https://hootsuite.com)
+- [Meet Edgar](https://meetedgar.com/)
 
 #### Landing Pages
 - [LeadPages](https://www.leadpages.net)
 - [Unbounce](http://unbounce.com)
 - [Instapage](https://instapage.com/)
+- [Landing Lion](https://www.landinglion.com/)
 
 #### E-Commerce Tools
 - [Shopify](https://www.shopify.com/)
@@ -128,6 +136,9 @@
 - [Google Analytics](https://www.google.com/analytics/)
 - [Kissmetrics](https://kissmetrics.com/)
 - [Optimizely](https://www.optimizely.com/)
+- [Hotjar](https://www.hotjar.com/)
+- [FullStory](https://www.fullstory.com/)
+- [Mixpanel](https://mixpanel.com/)
 
 #### Customers
 - [Intercom](https://www.google.com/analytics/)
@@ -209,13 +220,6 @@
 - [Skype](https://www.skype.com)
 - [Slack](https://slack.com/)
 
-#### Analytics
-- [Mixpanel](https://mixpanel.com/)
-- [Google Analytics](https://analytics.google.com)
-- [Segment](https://segment.com/)
-- [Content Marketer](https://contentmarketer.io)
-- [Bit.ly](https://app.bitly.com)
-
 #### Productivity
 - [Todoist](https://en.todoist.com/)
 - [Todo](http://www.appigo.com/)
@@ -223,16 +227,4 @@
 #### User Testing
 - [Typeform](https://www.typeform.com/)
 - [Proved](https://proved.co/)
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [User Testing](https://www.usertesting.com/)
