@@ -55,6 +55,7 @@
 - [Click Funnels](https://www.clickfunnels.com/)
 - [Wishpond](https://www.wishpond.com/)
 - [Growth Geeks](http://www.growthgeeks.com)
+- [Selectom](http://www.selectom.com)
 
 #### Affiliate Programs
 - [Clickbank](http://www.clickbank.com/)
