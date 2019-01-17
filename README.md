@@ -127,6 +127,7 @@
 - [Meetup](http://www.meetup.com/)
 
 #### Podcasting
+- [ZenCast](https://zencast.fm/)
 - [Libsyn](https://www.libsyn.com/)
 - [Simplecast](https://simplecast.fm/)
 - [Smart Podcast Player](https://smartpodcastplayer.com/)
