@@ -224,6 +224,7 @@
 - [Slack](https://slack.com/)
 
 #### Productivity
+- [Taskade](http://www.taskade.com/)
 - [Todoist](https://en.todoist.com/)
 - [Todo](http://www.appigo.com/)
 
