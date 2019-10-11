@@ -37,6 +37,7 @@
 - [ActiveCampaign](http://activecampaign.com)
 - [Sidekick](http://www.getsidekick.com/)
 - [Customer.io](https://customer.io/)
+- [MailerLite](https://mailerlite.com)
 
 #### Email Prospecting
 - [Reply](http://replyapp.io)
