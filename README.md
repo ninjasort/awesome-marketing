@@ -17,7 +17,6 @@
 - [Moz](https://moz.com/)
 - [Alexa Traffic Rank Chrome Extension](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
-- [ ]
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
@@ -38,6 +37,7 @@
 - [Sidekick](http://www.getsidekick.com/)
 - [Customer.io](https://customer.io/)
 - [MailerLite](https://mailerlite.com)
+- [SendinBlue](http://sendinblue.com/)
 
 #### Email Prospecting
 - [Reply](http://replyapp.io)
