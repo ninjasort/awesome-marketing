@@ -51,6 +51,7 @@
 #### Sales
 - [Close.io](http://close.io/)
 - [Salesloft](https://salesloft.com/)
+- [Saleswhale](https://www.saleswhale.com/)
 
 #### Growth Engines
 - [Click Funnels](https://www.clickfunnels.com/)
