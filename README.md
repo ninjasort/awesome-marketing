@@ -74,6 +74,7 @@
 #### Automation
 - [Infusionsoft](http://www.infusionsoft.com/home2)
 - [Hull](https://www.hull.io/)
+- [SocialGrep](https://socialgrep.com/)
 - [IFTTT](https://ifttt.com/)
 - [Zapier](https://zapier.com/)
 - [Buffer](https://buffer.com)
