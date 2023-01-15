@@ -38,6 +38,7 @@
 - [Customer.io](https://customer.io/)
 - [MailerLite](https://mailerlite.com)
 - [SendinBlue](http://sendinblue.com/)
+- [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker)
 
 #### Email Prospecting
 - [Reply](http://replyapp.io)
