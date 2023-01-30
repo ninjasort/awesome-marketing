@@ -47,6 +47,9 @@
 - [Anymail Finder](https://anymailfinder.com/)
 - [Aeroleads](https://aeroleads.com/)
 
+#### Email Verification
+- [Kickbox](https://kickbox.com)
+
 #### Lead Generation
 - [Optinmonster](http://optinmonster.com)
 
