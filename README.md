@@ -177,6 +177,7 @@
 - [Headline Analyzer](http://coschedule.com/headline-analyzer)
 - [Awesome Screenshot Chrome Extension](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
 - [Brevity](http://brevity.ga/)
+- [LogicBalls](https://logicballs.com/)
 
 #### Content Marketing
 - [CoSchedule](http://coschedule.com)
