@@ -17,6 +17,7 @@
 - [Moz](https://moz.com/)
 - [Alexa Traffic Rank Chrome Extension](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
+- [Publish7](https://publish7.com/) - An agentic platform for digital marketing and SEO strategy.
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
