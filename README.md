@@ -40,6 +40,7 @@
 - [Customer.io](https://customer.io/)
 - [MailerLite](https://mailerlite.com)
 - [SendinBlue](http://sendinblue.com/)
+- [Sendy](https://sendy.co/)
 
 #### Email Prospecting
 - [Reply](http://replyapp.io)
