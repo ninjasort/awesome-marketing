@@ -176,6 +176,7 @@
 - [Hacker News](https://news.ycombinator.com/)
 - [Product Hunt](https://www.producthunt.com/)
 - [Reddit](https://www.reddit.com/)
+- [The Marketing Newsletter](https://themarketingnewsletter.org)
 
 #### Writing Tools
 - [Byword 2](https://bywordapp.com)
