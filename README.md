@@ -18,7 +18,9 @@
 - [Alexa Traffic Rank Chrome Extension](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 - [OnRanko](https://onranko.com/)
-- 
+- [GEOScore](https://geoscoreai.com) - AI search visibility scanner that checks how websites perform in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.
+- [Awesome GEO](https://github.com/henu-wang/awesome-geo) - Curated list of Generative Engine Optimization resources
+-
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
