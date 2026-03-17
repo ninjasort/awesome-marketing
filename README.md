@@ -86,6 +86,9 @@
 - [Buffer](https://buffer.com)
 - [Hootsuite](https://hootsuite.com)
 - [Meet Edgar](https://meetedgar.com/)
+- [SocialBu](https://socialbu.com)
+
+
 
 #### Landing Pages
 - [LeadPages](https://www.leadpages.net)
