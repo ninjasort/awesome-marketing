@@ -49,6 +49,8 @@
 - [Voila Norbert](https://www.voilanorbert.com/)
 - [Anymail Finder](https://anymailfinder.com/)
 - [Aeroleads](https://aeroleads.com/)
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, email + LinkedIn campaigns, conversations. JSON output, agent-native.
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.
 
 #### Email Verification
 - [Kickbox](https://kickbox.com)
