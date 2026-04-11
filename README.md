@@ -18,6 +18,7 @@
 - [Alexa Traffic Rank Chrome Extension](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 - [OnRanko](https://onranko.com/)
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin with 9 SEO and Google Ads skills; rewrites meta tags, generates JSON-LD schema, ships fixes to WordPress/Strapi/Contentful/Ghost. MIT, 107⭐.
 - 
 
 ##### Keywords
