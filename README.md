@@ -2,6 +2,7 @@
 
 #### Awesome Links
 - [Startup Stash](http://startupstash.com/)
+- [Free Marketing Tools JP](https://free-marketing-tools.jp) - 50 free AI-powered marketing tools for SMBs (LP analysis, SEO audit, ad copy generator, competitor research)
 
 #### Trends
 - [Buzzsumo](http://buzzsumo.com/)
