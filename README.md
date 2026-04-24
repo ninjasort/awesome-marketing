@@ -49,6 +49,7 @@
 - [Voila Norbert](https://www.voilanorbert.com/)
 - [Anymail Finder](https://anymailfinder.com/)
 - [Aeroleads](https://aeroleads.com/)
+- [Scrupp](https://scrupp.com) - Chrome extension for one-click verified email extraction from LinkedIn Sales Navigator, with CSV and Google Sheets export.
 
 #### Email Verification
 - [Kickbox](https://kickbox.com)
