@@ -94,6 +94,7 @@
 - [Landing Lion](https://www.landinglion.com/)
 
 #### E-Commerce Tools
+- [WebCoreLab](https://webcorelab.com) — AI-powered digital agency (Toronto). 272-check SEO audit, GEO/AEO for AI search engines, content factory, CRO.
 - [Shopify](https://www.shopify.com/)
 - [Gumroad](https://gumroad.com/)
 - [E-Junkie](http://www.e-junkie.com/)
