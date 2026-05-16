@@ -41,6 +41,7 @@
 - [MailerLite](https://mailerlite.com)
 - [SendinBlue](http://sendinblue.com/)
 - [Sendy](https://sendy.co/)
+- [Sequenzy](https://www.sequenzy.com/)
 
 #### Email Prospecting
 - [Reply](http://replyapp.io)
