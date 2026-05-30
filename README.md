@@ -169,6 +169,7 @@
 - [Click-to-Tweet](http://coschedule.com/click-to-tweet)
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
+- [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
 
 #### Communities & Blogs
 - [Growth Hackers](https://growthhackers.com/)
