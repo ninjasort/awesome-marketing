@@ -2,6 +2,7 @@
 
 #### Awesome Links
 - [Startup Stash](http://startupstash.com/)
+- [Marketing Manager Jobs](https://marketingmanagerjobs.com/) - Curated job board for marketing manager-level roles, including remote, salary, role, and location-specific listings.
 
 #### Trends
 - [Buzzsumo](http://buzzsumo.com/)
