@@ -202,6 +202,7 @@
 
 #### Videos
 - [Explainify](http://explainify.com/)
+- [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - AI-driven animated b-roll overlay renderer for short-form social (Reels, Shorts, TikTok). Free, MIT, local.
 
 #### Design
 - [Design Feed](http://designfeed.io/gg/?source=direct)
