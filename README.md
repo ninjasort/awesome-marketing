@@ -192,6 +192,7 @@
 - [CoSchedule](http://coschedule.com)
 - [NinjaOutreach](https://ninjaoutreach.com/)
 - [Contento](https://contento.marketing)
+- [Teno](https://www.useteno.com/) - AI ad creative platform for e-commerce and DTC teams; Ad Agent turns campaign chat into structured briefs and generates image and video ads with built-in quality checks.
 
 #### Online Courses
 - [Zippy Courses](https://zippycourses.com/)
