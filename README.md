@@ -126,6 +126,7 @@
 
 #### Online Courses
 - [Teachable](https://teachable.com/)
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/ai-marketing) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Zippy Courses](https://zippycourses.com)
 
 #### Webinars
