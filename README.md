@@ -59,6 +59,7 @@
 
 #### Sales
 - [Close.io](http://close.io/)
+- [SalesLabel](https://sales-label.com)
 - [Salesloft](https://salesloft.com/)
 - [Saleswhale](https://www.saleswhale.com/)
 
