@@ -20,6 +20,7 @@
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 - [OnRanko](https://onranko.com/)
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO meta tag generator, OG image generator, favicon generator, and AI robots.txt generator. No signup.
+- [CrawlGraph](https://crawlgraph.com/gap-analysis?utm_source=github&utm_medium=referral&utm_campaign=awesome-marketing) - Free backlink gap analysis on Common Crawl's open link graph. Enter your domain plus competitors to see who links to them but not you, ranked by authority. No signup for the free tier.
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
