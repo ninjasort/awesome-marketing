@@ -153,6 +153,7 @@
 - [Hotjar](https://www.hotjar.com/)
 - [FullStory](https://www.fullstory.com/)
 - [Mixpanel](https://mixpanel.com/)
+- [GetAppNiche](https://getappniche.com/) - iOS App Store intelligence for revenue estimates, ASO keywords, reviews, and competitor research.
 
 #### Customers
 - [Intercom](https://www.google.com/analytics/)
