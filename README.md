@@ -171,6 +171,7 @@
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
 - [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+- [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) - Open-source LinkedIn marketing toolkit: post writer built on 16 tested hook formulas, pre-publish audit against LinkedIn algorithm heuristics, comment drafter, weekly content planner, and profile optimizer. 10 MIT-licensed skills that run inside AI coding agents.
 
 #### Communities & Blogs
 - [Growth Hackers](https://growthhackers.com/)
