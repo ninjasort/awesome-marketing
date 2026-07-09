@@ -3,6 +3,7 @@
 #### Awesome Links
 - [Startup Stash](http://startupstash.com/)
 - [Marketing Manager Jobs](https://marketingmanagerjobs.com/) - Curated job board for marketing manager-level roles, including remote, salary, role, and location-specific listings.
+- [Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list for marketing in the AI era: GEO (getting brands cited by AI answer engines), AI-visibility tools, and agentic commerce protocols.
 
 #### Trends
 - [Buzzsumo](http://buzzsumo.com/)
