@@ -153,6 +153,7 @@
 - [Hotjar](https://www.hotjar.com/)
 - [FullStory](https://www.fullstory.com/)
 - [Mixpanel](https://mixpanel.com/)
+- [Apstal](https://apstal.com) - AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 100K events/month.
 
 #### Customers
 - [Intercom](https://www.google.com/analytics/)
