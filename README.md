@@ -93,6 +93,7 @@
 - [Unbounce](http://unbounce.com)
 - [Instapage](https://instapage.com/)
 - [Landing Lion](https://www.landinglion.com/)
+- [Landing Copy Grader](https://parweb.github.io/landing-copy-grader/) - Scores hero copy 0-100 against a fixed checklist of AI-writing tells. Free, browser-based, no signup.
 
 #### E-Commerce Tools
 - [Shopify](https://www.shopify.com/)
@@ -187,6 +188,7 @@
 - [Brevity](http://brevity.ga/)
 - [GrackerAI](https://gracker.ai/)
 - [LogicBalls](https://logicballs.com/)
+- [Does My Text Sound AI?](https://parweb.github.io/sounds-ai/) - Checks a draft for ~60 AI-writing tells (em-dashes, "delve", filler openers). Runs offline in the browser.
 
 #### Content Marketing
 - [CoSchedule](http://coschedule.com)
