@@ -192,6 +192,7 @@
 - [CoSchedule](http://coschedule.com)
 - [NinjaOutreach](https://ninjaoutreach.com/)
 - [Contento](https://contento.marketing)
+- [Ecommerce ChatGPT Prompts](https://www.xpay.sh/prompts/) - Free, copy-and-run ChatGPT prompt library for online store owners, covering product descriptions, ads, email, and SEO. No signup to copy.
 
 #### Online Courses
 - [Zippy Courses](https://zippycourses.com/)
