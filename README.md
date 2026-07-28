@@ -24,6 +24,7 @@
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
 - [Keyword Density Analyzer Tool](http://tools.seobook.com/general/keyword-density/)
+- [Nutilz Keyword Density Checker](https://nutilz.com/keyword-density-checker) - Free browser-based keyword density checker. Paste any text and get per-word, per-phrase (bigram/trigram) density percentages and counts instantly. No signup.
 
 ##### Advertising
 - [OpenX](http://openx.com/)
