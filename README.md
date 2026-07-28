@@ -20,6 +20,7 @@
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 - [OnRanko](https://onranko.com/)
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO meta tag generator, OG image generator, favicon generator, and AI robots.txt generator. No signup.
+- [All Tools Verse](https://alltoolsverse.com/) - Free browser-based SEO and marketing tools for meta tags, schema, robots.txt, UTM links, image assets and campaign calculations. No signup.
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
