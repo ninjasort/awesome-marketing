@@ -182,6 +182,7 @@
 #### Writing Tools
 - [Byword 2](https://bywordapp.com)
 - [Grammarly](https://www.grammarly.com)
+- [Humanize-Text](https://github.com/lynote-ai/humanize-text)
 - [Headline Analyzer](http://coschedule.com/headline-analyzer)
 - [Awesome Screenshot Chrome Extension](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
 - [Brevity](http://brevity.ga/)
