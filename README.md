@@ -171,6 +171,7 @@
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
 - [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+- [Autoposting](https://autoposting.ai) - AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube
 
 #### Communities & Blogs
 - [Growth Hackers](https://growthhackers.com/)
