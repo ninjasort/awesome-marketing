@@ -21,6 +21,13 @@
 - [OnRanko](https://onranko.com/)
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO meta tag generator, OG image generator, favicon generator, and AI robots.txt generator. No signup.
 
+##### AI Search Visibility (GEO)
+Tracking whether a brand gets recommended inside AI answers (ChatGPT, Perplexity, Google AI Overviews) rather than ranked on a results page.
+- [AISO Tools](https://aisotools.com/audit) - Free audit that checks whether ChatGPT and other AI assistants recommend your product, with per-prompt citation results.
+- [Otterly.AI](https://otterly.ai) - Monitors brand mentions and link citations in AI search answers.
+- [Peec AI](https://peec.ai) - Tracks brand visibility and competitor share across AI answer engines.
+- [Profound](https://tryprofound.com) - Enterprise answer-engine analytics: citation volume, prompt coverage, and crawler activity.
+
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
 - [Keyword Density Analyzer Tool](http://tools.seobook.com/general/keyword-density/)
