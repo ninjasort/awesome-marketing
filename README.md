@@ -14,6 +14,7 @@
 - [SEO Book](http://tools.seobook.com/keyword-tools/seobook/)
 - [SEO Keyword Ranking](http://www.seokeywordranking.com/)
 - [Ispionage](https://www.ispionage.com)
+- [AdMapix](https://www.admapix.com/) - Competitor ad creative research and mobile app market data.
 - [Yoast](https://yoast.com/)
 - [Moz](https://moz.com/)
 - [Alexa Traffic Rank Chrome Extension](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
