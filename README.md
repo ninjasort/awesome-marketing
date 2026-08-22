@@ -42,6 +42,7 @@
 - [MailerLite](https://mailerlite.com)
 - [SendinBlue](http://sendinblue.com/)
 - [Sendy](https://sendy.co/)
+- [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit (SPF, DKIM, DMARC, TLS, IP reputation) with a spam-risk score.
 
 #### Email Prospecting
 - [Reply](http://replyapp.io)
