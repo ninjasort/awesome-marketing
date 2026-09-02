@@ -162,6 +162,7 @@
 - [Twitter](https://twitter.com/)
 - [Facebook](https://www.facebook.com/)
 - [Instagram](http://instagram.com)
+- [BulkPublish](https://app.bulkpublish.com/docs) - AI-agent social media content creation, adaptation, scheduling, cross-channel publishing, and analytics through API and MCP access.
 - [Craigslist](http://craigslist.org)
 - [YouTube](http://youtube.com)
 - [Periscope](https://www.periscope.tv/)
