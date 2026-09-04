@@ -153,6 +153,7 @@
 - [Hotjar](https://www.hotjar.com/)
 - [FullStory](https://www.fullstory.com/)
 - [Mixpanel](https://mixpanel.com/)
+- [LLM Pulse](https://llmpulse.ai/) - Tracks brand mentions, citations, sentiment, and competitor share of voice across ChatGPT, Perplexity, Gemini, and Google AI.
 
 #### Customers
 - [Intercom](https://www.google.com/analytics/)
