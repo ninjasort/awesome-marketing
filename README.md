@@ -171,6 +171,7 @@
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
 - [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+- [Social media studio](https://so-me.studio) - Schedule and publish social posts, generate AI captions, and manage inbox conversations and analytics across connected accounts.
 
 #### Communities & Blogs
 - [Growth Hackers](https://growthhackers.com/)
