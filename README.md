@@ -42,6 +42,7 @@
 - [MailerLite](https://mailerlite.com)
 - [SendinBlue](http://sendinblue.com/)
 - [Sendy](https://sendy.co/)
+- [Stripo](https://stripo.email)
 
 #### Email Prospecting
 - [Reply](http://replyapp.io)
