@@ -202,6 +202,7 @@
 
 #### Videos
 - [Explainify](http://explainify.com/)
+- [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast, or webinar into vertical 9:16 shorts with word-by-word captions.
 
 #### Design
 - [Design Feed](http://designfeed.io/gg/?source=direct)
