@@ -224,6 +224,7 @@
 #### Scheduling
 - [ScheduleOnce](http://www.scheduleonce.com)
 - [Calendly](https://calendly.com)
+- [SocialRoster](https://socialroster.dev) - Social media scheduler for TikTok, Instagram Reels, YouTube Shorts, and Facebook with bulk upload and a calendar.
 - [Appointlet](https://www.appointlet.com)
 
 #### Outsourcing
