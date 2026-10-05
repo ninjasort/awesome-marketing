@@ -153,6 +153,7 @@
 - [Hotjar](https://www.hotjar.com/)
 - [FullStory](https://www.fullstory.com/)
 - [Mixpanel](https://mixpanel.com/)
+- [KupFollowersow.pl Engagement Rate Calculator](https://kupfollowersow.pl/tools/engagement-rate) - Free Polish-language calculator for Instagram and TikTok. Computes likes plus comments as a percentage of manually entered followers, reach, or views, with an explanation of why different bases are not directly comparable. No account or profile lookup.
 
 #### Customers
 - [Intercom](https://www.google.com/analytics/)
