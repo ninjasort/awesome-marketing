@@ -70,6 +70,7 @@
 
 #### Affiliate Programs
 - [Clickbank](http://www.clickbank.com/)
+- [Power CM Partners](https://partners.powercm-software.com/)
 
 #### Advertising
 - [Google AdWords](http://www.google.com/adwords/)
