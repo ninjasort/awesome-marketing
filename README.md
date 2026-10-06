@@ -74,6 +74,7 @@
 #### Advertising
 - [Google AdWords](http://www.google.com/adwords/)
 - [Google AdSense](https://www.google.com/adsense/start/#?modal_active=none)
+- [TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit) - Telegram channel reach check and ad views forecast
 
 #### Drip Campaigns
 - [Drip](https://www.getdrip.com/)
