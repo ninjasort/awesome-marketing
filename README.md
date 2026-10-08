@@ -224,6 +224,7 @@
 #### Scheduling
 - [ScheduleOnce](http://www.scheduleonce.com)
 - [Calendly](https://calendly.com)
+- [OpenCal](https://opencal.link)
 - [Appointlet](https://www.appointlet.com)
 
 #### Outsourcing
