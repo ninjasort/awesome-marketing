@@ -7,6 +7,7 @@
 #### Trends
 - [Buzzsumo](http://buzzsumo.com/)
 - [Google Trends](https://www.google.com/trends/)
+- [WeWorkBuddy](https://weworkbuddy.com/) - Source-backed topic research for AI creators using Hacker News, GitHub, and publisher feeds.
 
 #### SEO Research
 - [Market Samurai](http://www.marketsamurai.com)
@@ -187,6 +188,7 @@
 - [Brevity](http://brevity.ga/)
 - [GrackerAI](https://gracker.ai/)
 - [LogicBalls](https://logicballs.com/)
+- [WarmQuant](https://warmquant.com/) - AI-assisted English drafting with writing angles, author and reader personas, and editable saved drafts.
 
 #### Content Marketing
 - [CoSchedule](http://coschedule.com)
