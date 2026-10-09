@@ -53,6 +53,7 @@
 
 #### Email Verification
 - [Kickbox](https://kickbox.com)
+- [Email List Cleaner](https://apify.com/tidytools/bulk-email-validator) - Bulk list cleaning: syntax, MX, disposable, role and free-provider checks with typo suggestions; no SMTP probing. Pay per use ($0.50 per 1,000 addresses).
 
 #### Lead Generation
 - [Optinmonster](http://optinmonster.com)
