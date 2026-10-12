@@ -70,6 +70,7 @@
 
 #### Affiliate Programs
 - [Clickbank](http://www.clickbank.com/)
+- [LaunchSpy Partner Program](https://partners.launchspy.io/register)
 
 #### Advertising
 - [Google AdWords](http://www.google.com/adwords/)
