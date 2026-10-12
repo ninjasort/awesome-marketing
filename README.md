@@ -7,6 +7,7 @@
 #### Trends
 - [Buzzsumo](http://buzzsumo.com/)
 - [Google Trends](https://www.google.com/trends/)
+- [looot-mentions](https://github.com/loootai/looot-mentions) - Open-source, self-hosted alternative to Brand24 and Mention: brand and keyword listening across Reddit, X, Hacker News, news, YouTube, TikTok, Instagram and the web, with sentiment, intent and a daily digest. Brand24's Individual plan is $249/month; here one keyword on all eight sources costs about $0.01 per run through the looot API. MIT, demo mode.
 
 #### SEO Research
 - [Market Samurai](http://www.marketsamurai.com)
