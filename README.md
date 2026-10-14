@@ -87,6 +87,7 @@
 - [Buffer](https://buffer.com)
 - [Hootsuite](https://hootsuite.com)
 - [Meet Edgar](https://meetedgar.com/)
+- [Multi Upload Tool](https://multi-upload-tool.com/) - Schedule one video to TikTok, YouTube Shorts, Instagram Reels, Facebook, LinkedIn, Pinterest, Bluesky, Threads and X from one dashboard or REST API.
 
 #### Landing Pages
 - [LeadPages](https://www.leadpages.net)
