@@ -67,6 +67,7 @@
 - [Wishpond](https://www.wishpond.com/)
 - [Growth Geeks](http://www.growthgeeks.com)
 - [Selectom](http://www.selectom.com)
+- [gtm.help](https://gtm.help) - AI growth engine for founders and B2B SaaS: paste your site to get a ranked plan of growth plays across SEO, AI search (AEO), Reddit, LinkedIn, X, directories and outreach. Also works as a remote MCP server in Claude, ChatGPT and Cursor.
 
 #### Affiliate Programs
 - [Clickbank](http://www.clickbank.com/)
