@@ -50,6 +50,7 @@
 - [Voila Norbert](https://www.voilanorbert.com/)
 - [Anymail Finder](https://anymailfinder.com/)
 - [Aeroleads](https://aeroleads.com/)
+- [BacklinkGenie](https://backlinkgenie.com) - AI outreach agent for link building. Finds blog posts and roundups where your product fits, verifies the editor, writes a pitch per post and sends from a separate warmed mailbox.
 
 #### Email Verification
 - [Kickbox](https://kickbox.com)
