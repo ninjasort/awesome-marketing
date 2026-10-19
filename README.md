@@ -248,3 +248,4 @@
 - [Typeform](https://www.typeform.com/)
 - [Proved](https://proved.co/)
 - [User Testing](https://www.usertesting.com/)
+- [Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
