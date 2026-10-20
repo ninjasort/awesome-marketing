@@ -87,6 +87,7 @@
 - [Buffer](https://buffer.com)
 - [Hootsuite](https://hootsuite.com)
 - [Meet Edgar](https://meetedgar.com/)
+- [Ignix](https://ignix.social)
 
 #### Landing Pages
 - [LeadPages](https://www.leadpages.net)
