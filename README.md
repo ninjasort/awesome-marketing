@@ -20,6 +20,7 @@
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 - [OnRanko](https://onranko.com/)
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO meta tag generator, OG image generator, favicon generator, and AI robots.txt generator. No signup.
+- [Seonix](https://seonix.ai) - SEO on autopilot: keyword research, AI articles in 50+ languages, auto-publishing to WordPress/Shopify/Webflow/Ghost/Wix, Google and ChatGPT visibility tracking. Free plan.
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
