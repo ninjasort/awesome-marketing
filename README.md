@@ -171,6 +171,7 @@
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
 - [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+- [TKMetrics](https://tkmetrics.com/) - TikTok creator stats reports, earnings estimates and an influencer search ranked by average views and engagement on recent videos.
 
 #### Communities & Blogs
 - [Growth Hackers](https://growthhackers.com/)
