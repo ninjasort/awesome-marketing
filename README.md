@@ -87,6 +87,7 @@
 - [Buffer](https://buffer.com)
 - [Hootsuite](https://hootsuite.com)
 - [Meet Edgar](https://meetedgar.com/)
+- [OpenSparta](https://opensparta.com/en) - SaaS workspace for Telegram operations, bringing conversation discovery, connected-account management, and proxy operations together in one place.
 
 #### Landing Pages
 - [LeadPages](https://www.leadpages.net)
