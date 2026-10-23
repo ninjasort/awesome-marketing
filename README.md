@@ -171,6 +171,7 @@
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
 - [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+- [SocialSleuth](https://socialsleuth.xyz/) - Monitor publicly available Instagram account activity with baseline and weekly reports, AI insights, and optional Story archiving.
 
 #### Communities & Blogs
 - [Growth Hackers](https://growthhackers.com/)
