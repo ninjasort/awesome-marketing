@@ -171,6 +171,7 @@
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
 - [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+- [ContentFlow](https://contentflow.solutions) - Social media scheduler that adapts and publishes content to Telegram, Mastodon, Bluesky and X, with per-platform analytics.
 
 #### Communities & Blogs
 - [Growth Hackers](https://growthhackers.com/)
