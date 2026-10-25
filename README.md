@@ -74,6 +74,7 @@
 #### Advertising
 - [Google AdWords](http://www.google.com/adwords/)
 - [Google AdSense](https://www.google.com/adsense/start/#?modal_active=none)
+- [MarketMirror](https://github.com/DarkWorldCoder/market-mirror) - Open-source pre-test of ads, prices and sales pitches on simulated buyers
 
 #### Drip Campaigns
 - [Drip](https://www.getdrip.com/)
