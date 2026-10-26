@@ -31,6 +31,7 @@
 
 ##### Optimization
 - [Pingdom](http://tools.pingdom.com/fpt/)
+- [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 #### Email Marketing
 - [Mailchimp](http://mailchimp.com/)
