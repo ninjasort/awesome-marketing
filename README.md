@@ -74,6 +74,7 @@
 #### Advertising
 - [Google AdWords](http://www.google.com/adwords/)
 - [Google AdSense](https://www.google.com/adsense/start/#?modal_active=none)
+- [The Complete Guide to DV360 (in Russian)](https://aksanov.digital/books/dv360) - Free 175-page book on Display & Video 360 in Russian. PDF, CC BY-ND 4.0.
 
 #### Drip Campaigns
 - [Drip](https://www.getdrip.com/)
