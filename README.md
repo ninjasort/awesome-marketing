@@ -9,6 +9,7 @@
 - [Google Trends](https://www.google.com/trends/)
 
 #### SEO Research
+- [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free remote MCP access to owned-site Google Search Console and Bing Webmaster data; authentication required.
 - [Market Samurai](http://www.marketsamurai.com)
 - [Long Tail Pro](http://www.longtailpro.com/)
 - [SEO Book](http://tools.seobook.com/keyword-tools/seobook/)
