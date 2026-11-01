@@ -171,6 +171,7 @@
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
 - [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+- [LurkAPI](https://lurkapi.com) - Social media data API: the ads in Meta's, Google's, TikTok's and LinkedIn's ad libraries, plus public posts and profiles from 16 platforms as JSON.
 
 #### Communities & Blogs
 - [Growth Hackers](https://growthhackers.com/)
