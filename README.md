@@ -28,6 +28,7 @@
 ##### Advertising
 - [OpenX](http://openx.com/)
 - [BrightRoll](https://brightroll.com/)
+- [AdVariq](https://advariq.com/) - AI ad creative and visual generation platform to clone winning ads, edit product photos, and generate high-converting promotional assets (Free trial, paid plans start from 29 USD/month).
 
 ##### Optimization
 - [Pingdom](http://tools.pingdom.com/fpt/)
