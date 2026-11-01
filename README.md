@@ -177,6 +177,7 @@
 - [Inbound](https://inbound.org/get-started)
 - [Hacker News](https://news.ycombinator.com/)
 - [Product Hunt](https://www.producthunt.com/)
+- [CodeTrendy](https://codetrendy.com/)
 - [Reddit](https://www.reddit.com/)
 
 #### Writing Tools
