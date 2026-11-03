@@ -53,6 +53,7 @@
 
 #### Email Verification
 - [Kickbox](https://kickbox.com)
+- [MailVeri](https://mailveri.com)
 
 #### Lead Generation
 - [Optinmonster](http://optinmonster.com)
