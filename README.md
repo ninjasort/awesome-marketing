@@ -7,6 +7,7 @@
 #### Trends
 - [Buzzsumo](http://buzzsumo.com/)
 - [Google Trends](https://www.google.com/trends/)
+- [Calven](https://calven.ai/) - AI product marketing platform where agents track competitors and market shifts and keep battle cards, positioning and messaging current.
 
 #### SEO Research
 - [Market Samurai](http://www.marketsamurai.com)
