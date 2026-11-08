@@ -202,6 +202,7 @@
 
 #### Videos
 - [Explainify](http://explainify.com/)
+- [Shotboard](https://getshotboard.com) - Mac app to research ads, write scripts, and make the images, video and voice. Bring your Claude or ChatGPT subscription and use 100 media models, paying providers directly with no markup.
 
 #### Design
 - [Design Feed](http://designfeed.io/gg/?source=direct)
