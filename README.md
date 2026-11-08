@@ -26,6 +26,7 @@
 - [Keyword Density Analyzer Tool](http://tools.seobook.com/general/keyword-density/)
 
 ##### Advertising
+- [AdVariq](https://advariq.com/) - AI-powered ad creative and banner generator for solo founders, marketers, and startups. (Freemium: Free trial available, paid plans start at 29 USD/month)
 - [OpenX](http://openx.com/)
 - [BrightRoll](https://brightroll.com/)
 
