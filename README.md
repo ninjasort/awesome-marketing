@@ -192,7 +192,7 @@
 - [CoSchedule](http://coschedule.com)
 - [NinjaOutreach](https://ninjaoutreach.com/)
 - [Contento](https://contento.marketing)
-- [Arcmira: YouTube Transcript Search](https://arcmira.com) - Find timestamped quotes, product mentions and sponsor reads across indexed YouTube videos and podcasts for content research. [API docs](https://arcmira.com/docs).
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API docs](https://arcmira.com/docs).
 
 #### Online Courses
 - [Zippy Courses](https://zippycourses.com/)
