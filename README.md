@@ -74,6 +74,7 @@
 #### Advertising
 - [Google AdWords](http://www.google.com/adwords/)
 - [Google AdSense](https://www.google.com/adsense/start/#?modal_active=none)
+- [AdMakeAI](https://admakeai.com) - AI ad creative for Facebook, Instagram and TikTok: image and UGC-style video ads from a product photo, plus competitors' live Meta ads.
 
 #### Drip Campaigns
 - [Drip](https://www.getdrip.com/)
