@@ -171,6 +171,7 @@
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
 - [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
+- [Tweenery Carousel Hooks](https://tweenery.com/tools/carousel-hooks) - Free, no-signup library of ~1,000 hooks from viral Instagram carousels and TikTok slideshows, with each post's views, likes and saves
 
 #### Communities & Blogs
 - [Growth Hackers](https://growthhackers.com/)
