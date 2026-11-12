@@ -57,7 +57,7 @@
 
 #### Lead Generation
 - [Optinmonster](http://optinmonster.com)
-- [Revenue Scout](https://revenuescout.ai/) - Finds public social posts from people who need what you sell. You review and post the replies it drafts.
+- [Revenue Scout](https://revenuescout.ai/) - Sales Prospecting Assistant that finds public social posts from people who need what you sell. You review and post the replies it drafts.
 
 #### Sales
 - [Close.io](http://close.io/)
