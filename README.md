@@ -239,6 +239,9 @@
 - [Skype](https://www.skype.com)
 - [Slack](https://slack.com/)
 
+#### Business Calculators
+- [SmartBizCalc](https://smartbizcalc.com) - 700+ free US business calculators: SE tax, 1099 vs W-2, payroll, profit margins, break-even, S-corp savings, and contractor pricing. No sign-up required.
+
 #### Productivity
 - [Taskade](http://www.taskade.com/)
 - [Todoist](https://en.todoist.com/)
