@@ -20,6 +20,7 @@
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 - [OnRanko](https://onranko.com/)
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO meta tag generator, OG image generator, favicon generator, and AI robots.txt generator. No signup.
+- [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - Free Claude Code plugin to audit sites, check links, plan content, and add schema.
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
@@ -56,6 +57,7 @@
 
 #### Lead Generation
 - [Optinmonster](http://optinmonster.com)
+- [Revenue Scout](https://revenuescout.ai/) - Sales Prospecting Assistant that finds public social posts from people who need what you sell. You review and post the replies it drafts.
 
 #### Sales
 - [Close.io](http://close.io/)
@@ -70,6 +72,7 @@
 
 #### Affiliate Programs
 - [Clickbank](http://www.clickbank.com/)
+- [Marquorum](https://marquorum.com/) - Free to join. Creators promote Agentic Services and earn a share of eligible subscription payments.
 
 #### Advertising
 - [Google AdWords](http://www.google.com/adwords/)
