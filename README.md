@@ -72,7 +72,7 @@
 
 #### Affiliate Programs
 - [Clickbank](http://www.clickbank.com/)
-- [Marquorum](https://marquorum.com/) - Free to join. Creators promote AI apps and earn a share of eligible subscription payments.
+- [Marquorum](https://marquorum.com/) - Free to join. Creators promote Agentic Services and earn a share of eligible subscription payments.
 
 #### Advertising
 - [Google AdWords](http://www.google.com/adwords/)
