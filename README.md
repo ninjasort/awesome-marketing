@@ -50,6 +50,7 @@
 - [Voila Norbert](https://www.voilanorbert.com/)
 - [Anymail Finder](https://anymailfinder.com/)
 - [Aeroleads](https://aeroleads.com/)
+- [LeadSets](https://www.leadsets.ai) - Unlimited B2B Contact Data for AI agents: find, enrich and verify work emails
 
 #### Email Verification
 - [Kickbox](https://kickbox.com)
