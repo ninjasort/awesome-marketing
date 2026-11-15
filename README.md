@@ -20,6 +20,7 @@
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 - [OnRanko](https://onranko.com/)
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO meta tag generator, OG image generator, favicon generator, and AI robots.txt generator. No signup.
+- [CohesionStack Metadata Packer](https://www.cohesionstack.com/opengraph-webpage-metadata) - Free tool that extracts Open Graph, Twitter Card and JSON-LD from up to 10 URLs and exports a CSV plus a ZIP of images and favicons. No signup.
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
