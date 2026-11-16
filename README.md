@@ -52,6 +52,7 @@
 - [Aeroleads](https://aeroleads.com/)
 
 #### Email Verification
+- [FairValid](https://fairvalid.com/)
 - [Kickbox](https://kickbox.com)
 
 #### Lead Generation
