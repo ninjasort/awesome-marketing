@@ -57,7 +57,7 @@
 
 #### Lead Generation
 - [Optinmonster](http://optinmonster.com)
-- [Revenue Scout](https://revenuescout.ai/) - Sales Prospecting Assistant that finds public social posts from people who need what you sell. You review and post the replies it drafts.
+- [Revenue Scout](https://revenuescout.ai/) - Agentic Coworker for sales prospecting. Scout finds public posts from people who need what you sell and drafts replies for manual review and posting. Reply requests help Scout explore better search phrases.
 
 #### Sales
 - [Close.io](http://close.io/)
