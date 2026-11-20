@@ -192,6 +192,7 @@
 - [CoSchedule](http://coschedule.com)
 - [NinjaOutreach](https://ninjaoutreach.com/)
 - [Contento](https://contento.marketing)
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/)
 
 #### Online Courses
 - [Zippy Courses](https://zippycourses.com/)
