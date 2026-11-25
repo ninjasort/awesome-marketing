@@ -20,6 +20,7 @@
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 - [OnRanko](https://onranko.com/)
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO meta tag generator, OG image generator, favicon generator, and AI robots.txt generator. No signup.
+- [Bloomwise Free SEO Tools](https://bloomwise.io/free-seo-tools) - Free SEO audit report generator (PDF), JSON-LD schema generator, robots.txt generator with AI crawler rules, SERP preview in pixels, Open Graph checker and on-page SEO checker.
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
