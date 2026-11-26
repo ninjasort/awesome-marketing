@@ -20,6 +20,7 @@
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 - [OnRanko](https://onranko.com/)
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO meta tag generator, OG image generator, favicon generator, and AI robots.txt generator. No signup.
+- [CiteReady](https://cite.shipbastion.com/) - Free no-signup AI search readiness (GEO) auditor checking 10 AI crawlers (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot), Schema.org JSON-LD entity graphs, and live /llms.txt generation.
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
