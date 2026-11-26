@@ -74,6 +74,7 @@
 #### Advertising
 - [Google AdWords](http://www.google.com/adwords/)
 - [Google AdSense](https://www.google.com/adsense/start/#?modal_active=none)
+- [Google Ads Cost Calculator](https://www.advai.cloud/google-ads-cost-calculator) - Free calculator showing what a monthly Google Ads budget buys at published benchmarks and what management fees add. No sign-up.
 
 #### Drip Campaigns
 - [Drip](https://www.getdrip.com/)
