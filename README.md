@@ -9,17 +9,14 @@
 - [Google Trends](https://www.google.com/trends/)
 
 #### SEO Research
-- [Market Samurai](http://www.marketsamurai.com)
 - [Long Tail Pro](http://www.longtailpro.com/)
 - [SEO Book](http://tools.seobook.com/keyword-tools/seobook/)
-- [SEO Keyword Ranking](http://www.seokeywordranking.com/)
 - [Ispionage](https://www.ispionage.com)
 - [Yoast](https://yoast.com/)
 - [Moz](https://moz.com/)
 - [Alexa Traffic Rank Chrome Extension](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 - [OnRanko](https://onranko.com/)
-- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO meta tag generator, OG image generator, favicon generator, and AI robots.txt generator. No signup.
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
@@ -46,7 +43,6 @@
 #### Email Prospecting
 - [Reply](http://replyapp.io)
 - [SmartReach.io](https://smartreach.io/)
-- [Prospectify](https://prospectify.io/)
 - [Voila Norbert](https://www.voilanorbert.com/)
 - [Anymail Finder](https://anymailfinder.com/)
 - [Aeroleads](https://aeroleads.com/)
@@ -65,7 +61,6 @@
 #### Growth Engines
 - [Click Funnels](https://www.clickfunnels.com/)
 - [Wishpond](https://www.wishpond.com/)
-- [Growth Geeks](http://www.growthgeeks.com)
 - [Selectom](http://www.selectom.com)
 
 #### Affiliate Programs
@@ -126,7 +121,6 @@
 
 #### Online Courses
 - [Teachable](https://teachable.com/)
-- [Zippy Courses](https://zippycourses.com)
 
 #### Webinars
 - [GoToWebinar](http://www.gotomeeting.com/webinar)
@@ -165,8 +159,6 @@
 - [Craigslist](http://craigslist.org)
 - [YouTube](http://youtube.com)
 - [Periscope](https://www.periscope.tv/)
-- [Meerkat](https://meerkatapp.co/)
-- [Blab](https://blab.im/)
 - [Click-to-Tweet](http://coschedule.com/click-to-tweet)
 - [AddThis](http://www.addthis.com/)
 - [Narrow](http://narrow.io/)
@@ -178,13 +170,13 @@
 - [Hacker News](https://news.ycombinator.com/)
 - [Product Hunt](https://www.producthunt.com/)
 - [Reddit](https://www.reddit.com/)
+- [Swavent Guides](https://swavent.com/en/guides) - Free guides on Shopify development, ecommerce and SEO.
 
 #### Writing Tools
 - [Byword 2](https://bywordapp.com)
 - [Grammarly](https://www.grammarly.com)
 - [Headline Analyzer](http://coschedule.com/headline-analyzer)
 - [Awesome Screenshot Chrome Extension](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
-- [Brevity](http://brevity.ga/)
 - [GrackerAI](https://gracker.ai/)
 - [LogicBalls](https://logicballs.com/)
 
@@ -194,7 +186,6 @@
 - [Contento](https://contento.marketing)
 
 #### Online Courses
-- [Zippy Courses](https://zippycourses.com/)
 
 ### Stock Resources
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
