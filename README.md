@@ -12,6 +12,7 @@
 - [Market Samurai](http://www.marketsamurai.com)
 - [Long Tail Pro](http://www.longtailpro.com/)
 - [SEO Book](http://tools.seobook.com/keyword-tools/seobook/)
+- [The SEO Agent](https://www.theseoagent.ai/) - AI SEO platform covering keyword research, cited article writing, claim checks, and CMS publishing.
 - [SEO Keyword Ranking](http://www.seokeywordranking.com/)
 - [Ispionage](https://www.ispionage.com)
 - [Yoast](https://yoast.com/)
